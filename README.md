@@ -1,1 +1,1 @@
-These are Fritzing layout files for the TLE 2505-2 motor driver
+This is my personal collection of Fritzing part i created. Each part is organised in a seperate branch of this repository.
