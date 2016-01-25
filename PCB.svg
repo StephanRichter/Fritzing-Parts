@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28.500172mm"
+   height="6.0001616mm"
+   viewBox="0 0 100.98486 21.260415"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="PCB.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="47.930632"
+     inkscape:cy="2.9658453"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1200"
+     inkscape:window-height="1576"
+     inkscape:window-x="1200"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-bottom="1"
+     fit-margin-right="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4142"
+       units="mm"
+       originx="50.492124"
+       spacingx="13.287402"
+       spacingy="7.086614"
+       originy="3.5433032" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.4291334,-1034.6451)">
+    <g
+       id="copper0">
+      <path
+         inkscape:connector-curvature="0"
+         id="copper0pin2"
+         d="m 32.774913,1038.1884 a 7.0866141,7.0866141 0 0 0 -7.085937,7.0859 7.0866141,7.0866141 0 0 0 7.085937,7.0879 7.0866141,7.0866141 0 0 0 7.087891,-7.0879 7.0866141,7.0866141 0 0 0 -7.087891,-7.0859 z m 0,5.1387 a 1.9488189,1.9488189 0 0 1 1.949219,1.9472 1.9488189,1.9488189 0 0 1 -1.949219,1.9492 1.9488189,1.9488189 0 0 1 -1.949219,-1.9492 1.9488189,1.9488189 0 0 1 1.949219,-1.9472 z"
+         style="opacity:1;fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="copper0pin1"
+         d="m 6.2001103,1038.1884 a 7.0866141,7.0866141 0 0 0 -7.08593695,7.0859 7.0866141,7.0866141 0 0 0 7.08593695,7.0879 7.0866141,7.0866141 0 0 0 7.0878907,-7.0879 7.0866141,7.0866141 0 0 0 -7.0878907,-7.0859 z m 0,5.1387 a 1.9488189,1.9488189 0 0 1 1.949219,1.9472 1.9488189,1.9488189 0 0 1 -1.949219,1.9492 1.9488189,1.9488189 0 0 1 -1.949219,-1.9492 1.9488189,1.9488189 0 0 1 1.949219,-1.9472 z"
+         style="opacity:1;fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="copper0pin3"
+         d="m 59.349717,1038.1884 a 7.0866141,7.0866141 0 0 0 -7.085937,7.0859 7.0866141,7.0866141 0 0 0 7.085937,7.0879 7.0866141,7.0866141 0 0 0 7.087891,-7.0879 7.0866141,7.0866141 0 0 0 -7.087891,-7.0859 z m 0,5.1387 a 1.9488189,1.9488189 0 0 1 1.949219,1.9472 1.9488189,1.9488189 0 0 1 -1.949219,1.9492 1.9488189,1.9488189 0 0 1 -1.949219,-1.9492 1.9488189,1.9488189 0 0 1 1.949219,-1.9472 z"
+         style="opacity:1;fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="copper0pin4"
+         d="m 85.92452,1038.1884 a 7.0866141,7.0866141 0 0 0 -7.085937,7.0859 7.0866141,7.0866141 0 0 0 7.085937,7.0879 7.0866141,7.0866141 0 0 0 7.087891,-7.0879 7.0866141,7.0866141 0 0 0 -7.087891,-7.0859 z m 0,5.1387 a 1.9488189,1.9488189 0 0 1 1.949219,1.9472 1.9488189,1.9488189 0 0 1 -1.949219,1.9492 1.9488189,1.9488189 0 0 1 -1.949219,-1.9492 1.9488189,1.9488189 0 0 1 1.949219,-1.9472 z"
+         style="opacity:1;fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
